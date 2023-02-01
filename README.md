@@ -2,9 +2,9 @@
 <h3 align="center">A Computer Educator  focused on helping people start computing</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marciocoutinho" alt="marciocoutinho" /> </p>
 
-- 🔭 I’m currently working on Senai-Alagoas
+- 🔭 I’m currently working on CEEP Agonalto Pacheco
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL and ReactJs**
 
 - 📫 How to reach me **marciojscoutinho@gmail.com**
 
